@@ -27,9 +27,9 @@ https://spiffe.devstats.cncf.io/d/1/activity-repository-groups?orgId=1
 https://spire.devstats.cncf.io/d/1/activity-repository-groups?orgId=1
 
 #### SPIFFE spec
-
-| Commits    | 298     |
+|            |         |
 |------------|---------|
+| Commits    | 298     |
 | Committers | 5       |
 | Commits    | Avg: 5 Max: 29 |
 | Stars      | 586     |
@@ -38,8 +38,9 @@ https://spire.devstats.cncf.io/d/1/activity-repository-groups?orgId=1
 
 #### SPIRE
 
-| Commits                | 2,892          |
+|                        |                |
 |------------------------|----------------|
+| Commits                | 2,892          |
 | Committers             | 7              |
 | Contributors           | Avg: 7 Max: 50 |
 | Contributing Companies | Avg: 3 Max: 27 |
