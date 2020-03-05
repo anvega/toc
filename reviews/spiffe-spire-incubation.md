@@ -52,7 +52,7 @@ SPIRE operates on a 90 release cadence. The SPIFFE standards themselves are curr
 
 SPIRE is currently on version 0.9.0 There are regular releases with an up to date change log. 
 
-### Public Reference to the spec
+### Public reference to the spec
 
 The SPIFFE spec defines a framework and set of standards for identifying and securing communications between web-based services. At its core, SPIFFE is:
 A standard defining how services identify themselves to each other. These are called SPIFFE IDs and are implemented as Uniform Resource Identifiers (URIs).
